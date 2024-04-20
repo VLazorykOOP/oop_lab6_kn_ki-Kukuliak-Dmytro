@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\1.1\main.cpp\main.cpp(31,23): warning C4584: 'Level3': base-class 'Level1' is already a base-class of 'Level2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\1.1\main.cpp\main.cpp(10): message : see declaration of 'Level1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\1.1\main.cpp\main.cpp(24): message : see declaration of 'Level2'
+  main.cpp.vcxproj -> C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\1.1\x64\Debug\main.cpp.exe

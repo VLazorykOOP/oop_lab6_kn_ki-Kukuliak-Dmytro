@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(27,19): warning C4584: 'R2': base-class 'Base' is already a base-class of 'L1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(3): message : see declaration of 'Base'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(9): message : see declaration of 'L1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(33,21): warning C4584: 'final': base-class 'L1' is already a base-class of 'L2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(9): message : see declaration of 'L1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(21): message : see declaration of 'L2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(33,32): warning C4584: 'final': base-class 'R1' is already a base-class of 'L2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(15): message : see declaration of 'R1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(21): message : see declaration of 'L2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(33,21): warning C4584: 'final': base-class 'L1' is already a base-class of 'R2'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(9): message : see declaration of 'L1'
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\main2\main.cpp(27): message : see declaration of 'R2'
+  main2.vcxproj -> C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\main2\x64\Debug\main2.exe

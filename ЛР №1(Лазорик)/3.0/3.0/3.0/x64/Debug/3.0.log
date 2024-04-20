@@ -1,0 +1,17 @@
+﻿  3.0.cpp
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\3.0\3.0\3.0\3.0.cpp(48,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\3.0\3.0\3.0\3.0.cpp(54): message : see reference to function template instantiation 'both::both<double>(T)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\3.0\3.0\3.0\3.0.cpp(48,62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  3.0.vcxproj -> C:\Users\Дима\Desktop\General\Лабораторні\Третій курс\ІІ семестр\ООП\ЛР №6(Лазорик)\3.0\3.0\x64\Debug\3.0.exe
